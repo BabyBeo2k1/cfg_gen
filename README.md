@@ -1,5 +1,5 @@
 # cfg_gen
-This repository help python user can extract Java method control-flow graph through [networkx](https://networkx.org/documentation/stable/index.html) python library as well as its application in [this paper](1858996.1859006.pdf)
+This repository help python user can extract Java method control-flow graph through [networkx](https://networkx.org/documentation/stable/index.html) library and node construction by [javalang](https://github.com/c2nes/javalang) library. The theory was aim to implement and improve from [this paper](1858996.1859006.pdf).
 
 ## Set up
 
