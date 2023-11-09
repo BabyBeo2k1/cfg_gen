@@ -1,7 +1,7 @@
 # cfg_gen
 This repository help python user can extract Java method control-flow graph through [networkx](https://networkx.org/documentation/stable/index.html) library and node construction by 
 [javalang](https://github.com/c2nes/javalang) library. The theory was to implement and improve from [this paper](1858996.1859006.pdf) with the aim to output a pruned input method
-code for feeding into LLMs or SOTA models.
+code for feeding into LLMs or SOTA models as shown in this [paper](https://ase2023-nier.hotcrp.com/doc/ase2023-nier-paper52.pdf?cap=hcav52fmDKtqzcyEsVWKTQYpuXsLzA).
 
 ## Set up
 
