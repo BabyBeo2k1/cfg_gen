@@ -39,6 +39,7 @@ Improvement:
 - We also select data driven code lines for branching codition variables (if they are not overlap)
 
 This help improve the result significantly and help it comparable to other technique while reduce 80% of input token
+(our result lie in 'code line extract')
 
 ![result](362278274_1418276679029152_6943412717295744549_n.png)
 
