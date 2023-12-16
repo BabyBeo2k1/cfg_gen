@@ -1,7 +1,6 @@
 import javalang 
 import networkx as nx
-from stmtCFG import buildNode
-import stmtCFG
+from .stmtCFG import buildNode
 import re
 def getLine(node:javalang.ast.Node):
     """
